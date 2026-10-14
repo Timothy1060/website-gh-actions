@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-  workflow-dispatch: 
+  workflow_dispatch: 
 
 permissions:
   contents: read
